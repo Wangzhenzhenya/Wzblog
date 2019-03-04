@@ -1,0 +1,2 @@
+# Wzblog
+a simple blog
